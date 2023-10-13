@@ -8,7 +8,21 @@
 <p align="center">
   Hi, i'm Julian,
   <br> 
-  I'm currently learning Java at brights Academy 
+  <br>
+   I'm currently learning Java at brights Academy 
+  <br>
+  <br>
+   I like Board Sports and am trying
+  <br>
+  <br>
+    to get into a flow with coding
+  <br>
+  <br>
+    contact me via mail
+  <br>
+  <br>
+    j.soe@gmx.de
+  
 <!--
 **JulianSoe/JulianSoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
