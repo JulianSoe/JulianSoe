@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Buddy+😁;Nice+to+meet+u;&center=true&size=30">
 
+
+</h5>
+<br>
+<p align="center">
+  Hi, i'm Julian,
+  <br> 
+  I'm currently learning Java at brights Academy 
 <!--
 **JulianSoe/JulianSoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
